@@ -119,7 +119,10 @@ How well did the response relate to the prompt?
 
 # Explanation of Hypothetical Ratings  
 
-## ChatGPT  
+## ChatGPT 
+### MODEL GENRATED:
+![image](https://github.com/user-attachments/assets/3f878c5d-e59e-4e76-8d5e-24746e3af26c)
+
 - **Accuracy (4)**: Accurately summarizes content with minor omissions.  
 - **Clarity (5)**: Very clear and understandable summaries.  
 - **Depth (4)**: Provides sufficient detail but sometimes lacks depth.  
@@ -127,7 +130,10 @@ How well did the response relate to the prompt?
 - **Response Time (2 seconds)**: Fast response times.  
 - **User Experience (5)**: Very user-friendly and easy to interact with.  
 
-## Claude  
+## Claude
+### MODEL GENRATED:
+![image](https://github.com/user-attachments/assets/8b254910-be5e-4750-bb67-eedc6212ec07)
+
 - **Accuracy (4)**: Often accurate with good performance.  
 - **Clarity (4)**: Clear but occasionally slightly verbose.  
 - **Depth (4)**: Fairly detailed summaries.  
@@ -136,6 +142,8 @@ How well did the response relate to the prompt?
 - **User Experience (4)**: Good user experience but could be improved.  
 
 ## Bard  
+### MODEL GENERATED
+![image](https://github.com/user-attachments/assets/ecc4d7a8-0f7f-4d04-ab00-958ed8129a3a)
 - **Accuracy (3)**: Some inaccuracies identified in summaries.  
 - **Clarity (4)**: Generally clear language, but can be complex.  
 - **Depth (3)**: Provides basic information but lacks detail.  
@@ -151,7 +159,7 @@ How well did the response relate to the prompt?
 - **Response Time (4 seconds)**: Fairly quick responses.  
 - **User Experience (4)**: Intuitive interface, easy to use.  
 
-## Meta  
+## Meta 
 - **Accuracy (3)**: Some inaccuracies were noted; needs improvement.  
 - **Clarity (3)**: Responses can sometimes be unclear or convoluted.  
 - **Depth (3)**: Basic summaries without much detail.  
